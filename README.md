@@ -17,96 +17,36 @@ Analista de Datos con más de 5 años de experiencia, apasionado por el trabajo 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
 <br>
 
-<p align="center">
+🐍 Python
 
+📊 Power BI
 
-    <div style="margin-bottom: 10px;">
-  <div style="background-color: #174f8f; padding: 10px; border-radius: 5px; display: inline-flex; height: 20px; align-items: center;">
-    <h2 style="color: white; font-weight: bold;">Python</h2>
-  </div>
+🕵️‍♂️ Looker Studio
 
+☁️ Azure
 
-  <div style="background-color: #c7ab0c; padding: 10px; border-radius: 5px; display: inline-flex; height: 20px; align-items: center;">
-    <h2 style="color: white; font-weight: bold;">Power BI</h2>
-  </div>
+🌐 Microsoft 365
 
+📊 SQL
 
-  <div style="background-color: #040d40; padding: 10px; border-radius: 5px; display: inline-flex; height: 20px; align-items: center;">
-    <h2 style="color: white; font-weight: bold;">Looker Studio</h2>
-  </div>
+🧠 Machine Learning
 
+📄 Microsoft Office
 
-  <div style="background-color: #3498db; padding: 10px; border-radius: 5px; display: inline-flex; height: 20px; align-items: center;">
-    <h2 style="color: white; font-weight: bold;">Azure</h2>
-  </div>
+⚡ Power Apps
 
+⚙️ Power Automate
 
-  <div style="background-color: #870b04; padding: 10px; border-radius: 5px; display: inline-flex; height: 20px; align-items: center;">
-    <h2 style="color: white; font-weight: bold;">Microsoft 365</h2>
-  </div>
+🔥 PySpark
 
+🐙 Git
 
-  <div style="background-color: #69beff; padding: 10px; border-radius: 5px; display: inline-flex; height: 20px; align-items: center;">
-    <h2 style="color: white; font-weight: bold;">SQL</h2>
-  </div>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="20px" style="margin-right: 5px;"> GitHub
 
+💻 Visual Studio Code
 
-  <div style="background-color: #011c3b; padding: 10px; border-radius: 5px; display: inline-flex; height: 20px; align-items: center;">
-    <h2 style="color: white; font-weight: bold;">Machine Learning</h2>
-  </div>
+📓 Jupyter Notebook
 
-
-  <div style="background-color: #3498db; padding: 10px; border-radius: 5px; display: inline-flex; height: 20px; align-items: center;">
-    <h2 style="color: white; font-weight: bold;">Microsoft Office</h2>
-  </div>
-
-
-  <br><br>
-  <div style="margin-bottom: 10px;">
-  <div style="background-color: #9b59b6; padding: 10px; border-radius: 5px; display: inline-flex; height: 20px; align-items: center;">
-    <h2 style="color: white; font-weight: bold;">Power Apps</h2>
-  </div>
-
-
-
-  <div style="background-color: #3498db; padding: 10px; border-radius: 5px; display: inline-flex; height: 20px; align-items: center;">
-    <h2 style="color: white; font-weight: bold;">Power Automate</h2>
-  </div>
-
-
-  <div style="background-color: #e69f2e; padding: 10px; border-radius: 5px; display: inline-flex; height: 20px; align-items: center;">
-    <h2 style="color: white; font-weight: bold;">PySpark</h2>
-  </div>
-  
-
-  <div style="background-color: #b51607; padding: 10px; border-radius: 5px; display: inline-flex; height: 20px; align-items: center;">
-    <h2 style="color: white; font-weight: bold;">Git</h2>
-  </div>
-
-
-  <div style="background-color: #00060a; padding: 10px; border-radius: 5px; display: inline-flex; height: 20px; align-items: center;">
-    <h2 style="color: white; font-weight: bold;">GitHub</h2>
-  </div>
-
-
-  <div style="background-color: #128ee0; padding: 10px; border-radius: 5px; display: inline-flex; height: 20px; align-items: center;">
-    <h2 style="color: white; font-weight: bold;">Visual Studio Code</h2>
-  </div>
-
-  
-  <div style="background-color: #e69f2e; padding: 10px; border-radius: 5px; display: inline-flex; height: 20px; align-items: center;">
-    <h2 style="color: white; font-weight: bold;">Jupyter Notebook</h2>
-  </div>
-
-
-
-
-
-</div>
-
-
-
-</p>
 
 <br>
 <br>
@@ -151,8 +91,7 @@ Analista de Datos con más de 5 años de experiencia, apasionado por el trabajo 
     <a href="https://wa.me/+5353661455" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
-    
-    </li>
+     </li>
 <br>
     <li>
     <a href="mailto:yasnieldelpino@gmail.com" target="blank"><img align="center"
